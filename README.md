@@ -1,4 +1,4 @@
-# Proxy-Detect: Reverse Proxy Identification via HTTP Temporal Analysis
+# ProxyDetect: Reverse Proxy Identification via HTTP Temporal Analysis
 
 Identify potential C2 reverse proxies by analyzing the response times to crafted HTTP requests. HTTP timing analysis tools available as both a **Python CLI script** and a **browser-based HTML app**.
 
